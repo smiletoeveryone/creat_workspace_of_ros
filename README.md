@@ -1,5 +1,7 @@
 # create_workspace_of_ros
 
+# please run your terminal in advance
+
 ***create_workspace
 1. mkdir -p ~/catkin_ws/src
 2. cd catkin_ws
