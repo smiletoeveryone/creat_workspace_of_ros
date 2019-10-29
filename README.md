@@ -33,7 +33,9 @@
 ***useful commands
 
 rostopic list
+
 rostopic info /chat
+
 rostopic echo /chat
 
 ***programming for a publish node
